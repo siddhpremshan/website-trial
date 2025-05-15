@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Playpen+Sans+Hebrew:wght@100..800&family=Share+Tech&display=swap');
+    * { 
+        margin:0;
+        padding:0;
+        box-sizing: border-box;
+        font-family: 'Playpen Sans Hebrew';
+}
+    section{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+    .one{background-color: rgb(0, 0, 0);}
+    .two{background-color: rgb(11, 11, 63);}
+    .three{background-color: rgb(24, 20, 115);}
+    .four{background-color: rgb(12, 14, 104);}
+    .five{background-color: rgb(20, 20, 129);}
+
+    h1{ 
+        color:white;
+        text-shadow: 1px 1px 4px #000;
+}
